@@ -1,16 +1,26 @@
-## Hi there 👋
+## Salutare! 👋
 
-<!--
-**OhKangWoo/OhKangWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Avatar](images/avatar.jpg)  
 
-Here are some ideas to get you started:
+## Despre mine
+Stratan Ivan, student la facultatea Matematica si Informatica la USM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Domenii de interes
+Informatica.
+
+## Limbaje de programare
+### Cunoscute
+- Java
+- Python
+- C++
+- JavaScript
+- C
+### În proces de învățare
+- PHP
+- Spring Framework
+### Pe care doresc să le învăț
+- C#
+
+## Cum mă puteți contacta
+Email:  ivan.stratan2005@gmail.com
+GitHub: [github.com/OhKangWoo](https://github.com/OhKangWoo) 
